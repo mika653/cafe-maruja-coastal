@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Manrope, Cormorant } from "next/font/google";
+import IterationSwitcher from "@/components/IterationSwitcher";
 import "./globals.css";
 
 const body = Manrope({
@@ -47,7 +48,10 @@ export default function RootLayout({
       lang="en"
       className={`${body.variable} ${heading.variable} antialiased`}
     >
-      <body className="min-h-screen bg-ivory text-slate">{children}</body>
+      <body className="min-h-screen bg-ivory text-slate">
+        <IterationSwitcher />
+        {children}
+      </body>
     </html>
   );
 }
