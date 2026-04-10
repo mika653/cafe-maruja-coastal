@@ -18,7 +18,7 @@ export default function Footer() {
               fairy lights come on.
             </p>
             <a
-              href="https://wa.me/639XXXXXXXXX"
+              href="https://wa.me/639260844793"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block mt-10 text-[11px] tracking-[0.25em] uppercase font-semibold text-teal-deep bg-ivory px-10 py-4 hover:bg-brass hover:text-ivory transition-all duration-500"
@@ -83,7 +83,7 @@ export default function Footer() {
               <ul className="space-y-3">
                 <li>
                   <a
-                    href="https://www.instagram.com/cafemaruja/"
+                    href="https://www.instagram.com/boracay.cafemaruja/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-ivory/60 hover:text-brass-light transition-colors link-luxe"
@@ -93,7 +93,7 @@ export default function Footer() {
                 </li>
                 <li>
                   <a
-                    href="https://www.facebook.com/cafemaruja/"
+                    href="https://www.facebook.com/cafemaruja.boracay/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-ivory/60 hover:text-brass-light transition-colors link-luxe"
@@ -103,7 +103,7 @@ export default function Footer() {
                 </li>
                 <li>
                   <a
-                    href="https://wa.me/639XXXXXXXXX"
+                    href="https://wa.me/639260844793"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-ivory/60 hover:text-brass-light transition-colors link-luxe"
@@ -129,7 +129,7 @@ export default function Footer() {
 
       {/* Floating WhatsApp */}
       <a
-        href="https://wa.me/639XXXXXXXXX"
+        href="https://wa.me/639260844793"
         target="_blank"
         rel="noopener noreferrer"
         className="whatsapp-float"

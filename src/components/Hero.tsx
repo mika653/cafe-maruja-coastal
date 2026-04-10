@@ -67,7 +67,7 @@ export default function Hero() {
 
             <div className="flex flex-col sm:flex-row gap-4 sm:items-center lg:justify-end">
               <a
-                href="https://wa.me/639XXXXXXXXX"
+                href="https://wa.me/639260844793"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-[11px] tracking-[0.25em] uppercase font-semibold text-teal-deep bg-ivory px-8 py-4 hover:bg-brass hover:text-ivory transition-all duration-500 text-center"

@@ -62,7 +62,7 @@ export default function Navbar() {
             </Link>
           ))}
           <a
-            href="https://wa.me/639XXXXXXXXX"
+            href="https://wa.me/639260844793"
             target="_blank"
             rel="noopener noreferrer"
             className={`text-[10px] tracking-[0.25em] uppercase font-semibold px-6 py-3 transition-all duration-500 ${
@@ -130,7 +130,7 @@ export default function Navbar() {
               </motion.div>
             ))}
             <motion.a
-              href="https://wa.me/639XXXXXXXXX"
+              href="https://wa.me/639260844793"
               target="_blank"
               rel="noopener noreferrer"
               initial={{ opacity: 0, y: 20 }}

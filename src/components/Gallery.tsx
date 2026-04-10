@@ -74,7 +74,7 @@ export default function Gallery() {
         >
           See more on Instagram &mdash;{" "}
           <a
-            href="https://www.instagram.com/cafemaruja/"
+            href="https://www.instagram.com/boracay.cafemaruja/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-brass link-luxe"
